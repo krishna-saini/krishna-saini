@@ -1,15 +1,17 @@
 # Hi there, I'm Krishna Saini 👋 
+## I'm a Husband, Father, and Developer!!
 
-## I'm a Husband, Father,and Developer!!
-    - 🌱 I’m currently learning everything 🤣 related to Full Stack Development
-    - 👨‍💻 All of my projects are available at https://krishna-saini.netlify.app/
-    - 💞️ I’m looking to collaborate for open source projects related to web development
-    - ✍️ Projects that I worked on recently :
-      - [forkify](https://github.com/krishna-saini/forkify) :- a food recipe search app
-      - [shopify clone](https://github.com/krishna-saini/shopify-clone-tailwind) :- build shopify.in clone as an attempt to learn tailwind
+- 🌱 I’m currently learning everything 🤣 related to Full Stack Development
+- 👨‍💻 All of my projects are available at https://krishna-saini.netlify.app/
+- 💞️ I’m looking to collaborate for open source projects related to web development
+- ✍️ Projects that I worked on recently :
+  - [forkify](https://github.com/krishna-saini/forkify) :- a food recipe search app
+  - [shopify clone](https://github.com/krishna-saini/shopify-clone-tailwind) :- build shopify.in clone as an attempt to learn tailwind
+
+
 
 ### Connect with me:
-[<img align="left" alt="HTML5" width="36px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/krishna-saini-39b4126a)
+[<img align="left" alt="HTML5" width="36px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="pading:10px;" />](https://www.linkedin.com/in/krishna-saini-39b4126a)
 
 <!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only) -->
