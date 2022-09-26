@@ -1,5 +1,5 @@
 # Hi there, I'm Krishna Saini 👋 
-## I'm a Husband, Father, and Developer!!
+## I'm a self taught Developer!!
 
 - 💻 I am a self taught programmer
 - 🔭 Currently enrolled in Full Stack Javascript Web Developer Bootcamp by iNeuron 
