@@ -4,7 +4,6 @@
 - 💻 I am a self taught programmer
 - 🔭 Currently enrolled in Full Stack Javascript Web Developer Bootcamp by iNeuron 
 - 🌱 I’m currently learning everything 🤣 related to Full Stack Development
-- 👨‍💻 All of my projects are available at https://krishna-saini.netlify.app/
 - 💞️ I’m looking to collaborate for open source projects related to web development
 - ✍️ Projects that I worked on recently :
   - [forkify](https://github.com/krishna-saini/forkify) :- a food recipe search app
