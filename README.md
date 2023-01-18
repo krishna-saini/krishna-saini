@@ -2,9 +2,9 @@
 ## I'm a self taught Developer!!
 
 - 💻 I am a self taught programmer
-- 🔭 Currently enrolled in Full Stack Javascript Web Developer Bootcamp by iNeuron 
-- 🌱 I’m currently learning everything 🤣 related to Full Stack Development
-- 💞️ I’m looking to collaborate for open source projects related to web development
+- 🔭 I have finishedFull Stack Javascript Web Developer Bootcamp by iNeuron (july 2022 to January 2023)
+- 🌱 I’m currently lexploring opportunities related to Full Stack Development
+- 💞️ I’m also looking to collaborate for open source projects related to web development
 - ✍️ Projects that I worked on recently :
   - [forkify](https://github.com/krishna-saini/forkify) :- a food recipe search app
   - [shopify clone](https://github.com/krishna-saini/shopify-clone-tailwind) :- build shopify.in clone as an attempt to learn tailwind
@@ -39,7 +39,7 @@
 <br />
 
 <!-- github stats card  -->
-[![krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-saini)](https://github.com/krishna-saini)
+<!-- [![krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-saini)](https://github.com/krishna-saini)
 
 <!-- using html -->
 <!-- <a href="https://github.com/krishna-saini/so-stats">
@@ -56,4 +56,4 @@
 <!-- GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile. -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]() -->
 
-<!-- <img align="center" src="https://camo.githubusercontent.com/e6ca610fc97dc7bc66339557c55be0b62ff470030071afb38802c2107e6b3caf/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616e6d6f6c6268617469613130303126" alt="anmolbhatia1001" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-saini&amp;" style="max-width: 100%;"> -->
+<!-- <img align="center" src="https://camo.githubusercontent.com/e6ca610fc97dc7bc66339557c55be0b62ff470030071afb38802c2107e6b3caf/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616e6d6f6c6268617469613130303126" alt="anmolbhatia1001" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-saini&amp;" style="max-width: 100%;"> --> -->
