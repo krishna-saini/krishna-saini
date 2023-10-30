@@ -1,13 +1,7 @@
 # Hi there, I'm Krishna Saini 👋 
-## I'm a self taught Developer!!
 
-- 💻 I am a self taught programmer
-- 🔭 I have finishedFull Stack Javascript Web Developer Bootcamp by iNeuron (july 2022 to January 2023)
-- 🌱 I’m currently lexploring opportunities related to Full Stack Development
-- 💞️ I’m also looking to collaborate for open source projects related to web development
-- ✍️ Projects that I worked on recently :
-  - [forkify](https://github.com/krishna-saini/forkify) :- a food recipe search app
-  - [shopify clone](https://github.com/krishna-saini/shopify-clone-tailwind) :- build shopify.in clone as an attempt to learn tailwind
+
+- 💻 I am currently working with Amazon miniTV team as web developer
 
 
 
